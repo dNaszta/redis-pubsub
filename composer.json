@@ -1,0 +1,13 @@
+{
+    "name": "stylers/redismq",
+    "description": "Redis MQ Pub-Sub strategy starter",
+    "authors": [
+        {
+            "name": "Nasztanovics Dávid",
+            "email": "dnasztanovics@gmail.com"
+        }
+    ],
+    "require": {
+        "predis/predis": "^1.1"
+    }
+}

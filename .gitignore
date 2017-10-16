@@ -1,0 +1,6 @@
+vendor/
+bin/
+include/
+lib/
+composer.lock
+pip-selfcheck.json
