@@ -42,7 +42,8 @@
     4. python3 -m virtualenv redis-pubsub
     5. cd redis-pubsub
     6. source bin/activate
-    7. python src/demo.py
+    7. pip install -r requirements.txt
+    8. python src/demo.py
     
 # Install php core
     1. composer install
